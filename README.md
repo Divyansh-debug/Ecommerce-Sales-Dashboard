@@ -43,19 +43,17 @@ To provide business stakeholders with a comprehensive view of key sales metrics 
 - Office Supplies showed the **highest profit margin**, but Technology had **highest revenue**.  
 - December was the top-performing month — suggesting scope for holiday campaign scaling.  
 - Losses were concentrated in the South-East region — indicating need for strategic review.
+- Suggested bundling strategy for low-margin categories based on profit analysis.
+- Flagged South-East region as high-risk loss zone using conditional formatting.
 
 ---
 
 ## 📸 Dashboard Screenshots
 
-> Add screenshots inside the `/screenshots` folder and embed below:
+<img width="1279" height="721" alt="240902594-67fb723d-020e-4650-90eb-cfe4c4146275" src="https://github.com/user-attachments/assets/237e6f39-808b-438b-a07d-a0b45ec9de53" />
+
 
 ![Overview](screenshots/dashboard_overview.png)
 ![Region-wise Sales](screenshots/sales_by_region.png)
 
 ---
-
-## 📂 Files
-
-- [`Ecommerce_Sales_Dashboard.pbix`](Ecommerce_Sales_Dashboard.pbix)  
-- [`SampleSuperstore.csv`](SampleSuperstore.csv)  
