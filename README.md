@@ -53,7 +53,4 @@ To provide business stakeholders with a comprehensive view of key sales metrics 
 <img width="1279" height="721" alt="240902594-67fb723d-020e-4650-90eb-cfe4c4146275" src="https://github.com/user-attachments/assets/237e6f39-808b-438b-a07d-a0b45ec9de53" />
 
 
-![Overview](screenshots/dashboard_overview.png)
-![Region-wise Sales](screenshots/sales_by_region.png)
-
 ---
